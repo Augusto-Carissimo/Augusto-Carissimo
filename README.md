@@ -2,7 +2,10 @@
 <p align="center">
  💻 I started working as a BackEnd developer with Ruby On Rails at <a href="https://www.toptal.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Toptal-Logo-Main-Colors_RGB.png/440px-Toptal-Logo-Main-Colors_RGB.png" height=23></a>.
  <br>
- Currently I'm working as Freelance developing an Inventory & Stock Tracker with RoR deploy with AWS EC2 <img title="AWS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/400px-AmazonWebservices_Logo.svg.png">. 
+ Currently I'm working Freelance developing an Inventory & Stock Tracker with RoR deploy with 
+ <img title="Docker" height="25" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Docker_logo.svg/240px-Docker_logo.svg.png">
+ at 
+ <img title="AWS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/400px-AmazonWebservices_Logo.svg.png">. 
  <br>
  I'm an experienced QA. 
  <br>

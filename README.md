@@ -1,12 +1,12 @@
 <h1 align="center"> My name is Augusto </h1>
 <p align="center">
- 💻 I'm BackEnd developer with Ruby On Rails. 
+ 💻 I started working as a BackEnd developer with Ruby On Rails at <a href="https://www.toptal.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Toptal-Logo-Main-Colors_RGB.png/440px-Toptal-Logo-Main-Colors_RGB.png" height=23></a>.
+ <br>
+ Currently I'm working as Freelance developing an Inventory & Stock Tracker with RoR deploy with AWS EC2 <img title="AWS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/400px-AmazonWebservices_Logo.svg.png">. 
  <br>
  I'm an experienced QA. 
  <br>
  English proficiency.
- <br>
- 🔭 I’m currently working on a Digital Library App (RoR).
  <br>
 </p>
 <p align="center"> 

@@ -1,7 +1,5 @@
-### My name is Augusto:
+<h1 align="center"> My name is Augusto </h1>
 <p align="center">
- <br>
- <br>
  💻 I'm BackEnd developer with Ruby On Rails. 
  <br>
  I'm an experienced QA. 
@@ -16,7 +14,7 @@
   <a href="mailto:augusto.carissimo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> 
   <a href="http://wa.me//5491165102255"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> 
 </p>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">Languages & Frameworks</h2>
 <br>
 <p align="center">
   <img title="Ruby" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/400px-Ruby_logo.svg.png"></code>

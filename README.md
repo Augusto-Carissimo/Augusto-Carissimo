@@ -1,4 +1,4 @@
-<h1 align="center"> My name is Augusto </h1>
+<h1 align="center"> Hey! My name is Augusto </h1>
 <p align="center">
  💻 I started working as a BackEnd developer with Ruby On Rails at <a href="https://www.toptal.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Toptal-Logo-Main-Colors_RGB.png/440px-Toptal-Logo-Main-Colors_RGB.png" height=15></a>.
  <br>

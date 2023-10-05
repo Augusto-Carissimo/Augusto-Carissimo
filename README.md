@@ -13,8 +13,7 @@
  <br>
 </p>
 
-<h2 align="center">Languages & Frameworks</h2>
-<br>
+<h2 align="center"> Languages & Frameworks </h2>
 <p align="center">
   <img title="Ruby" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/400px-Ruby_logo.svg.png"></code>
   <img title="Ruby On Rails" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1920px-Ruby_On_Rails_Logo.svg.png">
@@ -33,8 +32,7 @@
   <img title="Visual Studio Code" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/150px-Visual_Studio_Code_1.35_icon.svg.png">
 </p>
 
-
-<h3 align="center">Contacts</h3>
+<h3 align="center"> Contacts </h3>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/augustocarissimo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> 
   <a href="mailto:augusto.carissimo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> 

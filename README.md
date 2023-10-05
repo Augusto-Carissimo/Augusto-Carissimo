@@ -12,11 +12,7 @@
  English proficiency.
  <br>
 </p>
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/augustocarissimo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> 
-  <a href="mailto:augusto.carissimo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> 
-  <a href="http://wa.me//5491165102255"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> 
-</p>
+
 <h2 align="center">Languages & Frameworks</h2>
 <br>
 <p align="center">
@@ -35,4 +31,12 @@
   <img title="Python" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png">
   <img title="Apache Spark" height="25" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Spark-logo-192x100px.png">
   <img title="Visual Studio Code" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/150px-Visual_Studio_Code_1.35_icon.svg.png">
+</p>
+
+
+<h3 align="center">Contacts</h3>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/augustocarissimo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> 
+  <a href="mailto:augusto.carissimo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> 
+  <a href="http://wa.me//5491165102255"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> 
 </p>

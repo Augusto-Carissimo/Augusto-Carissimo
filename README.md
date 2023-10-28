@@ -2,7 +2,7 @@
 <p align="center">
  💻 I started working as a BackEnd developer with Ruby On Rails at <a href="https://www.toptal.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Toptal-Logo-Main-Colors_RGB.png/440px-Toptal-Logo-Main-Colors_RGB.png" height=15></a>.
  <br>
- Currently I'm working Freelance developing an Inventory & Stock Tracker deploy with 
+ Currently I'm working Freelance developing an Inventory & Stock Tracker deploy at 
  <img title="AWS" height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/400px-AmazonWebservices_Logo.svg.png">. 
  <br>
  I'm an experienced QA. 

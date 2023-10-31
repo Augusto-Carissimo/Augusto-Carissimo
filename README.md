@@ -28,7 +28,6 @@
   <img title="Apache Spark" height="25" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Spark-logo-192x100px.png">
   <img title="Visual Studio Code" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/150px-Visual_Studio_Code_1.35_icon.svg.png">
 </p>
-
 <h3 align="center"> Contacts </h3>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/augustocarissimo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> 

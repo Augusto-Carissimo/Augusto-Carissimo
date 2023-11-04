@@ -10,6 +10,7 @@
  English proficiency.
  <br>
 </p>
+
 <h2 align="center"> Languages & Frameworks </h2>
 <p align="center">
   <img title="Ruby" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/400px-Ruby_logo.svg.png"></code>

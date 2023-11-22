@@ -1,8 +1,7 @@
 <h1 align="center"> Hey! My name is Augusto </h1>
 <p align="center">
- 💻 I'm Freelancer developing Ruby on Rails apps 
- <img height="25"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1920px-Ruby_On_Rails_Logo.svg.png">
- deploy at AWS 
+ 💻 I'm Freelancer developing Ruby on <img height="25"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1920px-Ruby_On_Rails_Logo.svg.png">
+ apps deploy at AWS 
  <img title="AWS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/400px-AmazonWebservices_Logo.svg.png">.
  <br>
  I'm an experienced QA. 

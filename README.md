@@ -9,7 +9,6 @@
   <img title="Javascript" height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
   <img title="React" height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg">
   <img title="GraphQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/450px-GraphQL_Logo.svg.png">
-  <img title="Visual Studio Code" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/150px-Visual_Studio_Code_1.35_icon.svg.png">
 </p>
 <p align="center">
   <img title="SQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Sql_database_shortcut_icon.png">
@@ -21,6 +20,7 @@
   <img title="Docker" height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Docker_logo.svg/240px-Docker_logo.svg.png">
   <img title="AWS" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNsFUkKtQDhOaNlzJTg-0eDunBBfu865jJgQ&usqp=CAU">
   <img title="EC2" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/400px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png">
+  <img title="Visual Studio Code" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/150px-Visual_Studio_Code_1.35_icon.svg.png">
 </p>
 
 <h3 align="center"> Contacts </h3>
